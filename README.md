@@ -1,1 +1,1 @@
-![My Profile](./images/profile.jpg)
+![My Profile](../src/assets/Screenshot 2026-09-13 220014.png)
